@@ -37,8 +37,8 @@ Gem::Specification.new do |s|
     "lib/remotipart/request_helper.rb",
     "lib/remotipart/view_helper.rb",
     "remotipart.gemspec",
-    "vendor/assets/javascripts/jquery.iframe-transport.js",
-    "vendor/assets/javascripts/jquery.remotipart.js"
+    "app/assets/javascripts/jquery.iframe-transport.js",
+    "app/assets/javascripts/jquery.remotipart.js"
   ]
   s.homepage = "http://opensource.alfajango.com/remotipart/"
   s.require_paths = ["lib"]
